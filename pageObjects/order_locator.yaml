@@ -1,0 +1,13 @@
+title_homepage1: //*[@class="logo img-responsive"]
+title_signin: //*[@class="login"]
+personal_info: (//*[contains(@class,"page-subheading")])[2]
+email_found: //*[@id="email"]
+input_pass: //*[@id="passwd"]
+click_signin: //*[@id="SubmitLogin"]
+logo: //*[@class="logo img-responsive"]
+image: (//img[@class="replace-2x img-responsive"])[2]
+wait_image: (//*[@class="columns-container"])
+quantity: //*[@class="btn btn-default button-plus product_quantity_up"]
+size: //*[@id="group_1"]
+color: //*[@class="color_pick"]
+cart: //*[@class="exclusive"]

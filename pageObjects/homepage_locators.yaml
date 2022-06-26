@@ -1,0 +1,14 @@
+title_homepage: //*[@class="img-responsive"]
+shop_phone: //*[@class="shop-phone"]
+contactus: //*[@id="contact-link"]
+title_signin: //*[@class="login"]
+title_homepage1: //*[@class="logo img-responsive"]
+cart: //*[@title="View my shopping cart"]
+menu: //*[@class="sf-menu clearfix menu-content sf-js-enabled sf-arrows"]
+containers_menu: //*[@class="columns-container"]
+popular_menu: //*[@id="center_column"]
+footer: //*[@class="footer-container"]
+
+
+
+
