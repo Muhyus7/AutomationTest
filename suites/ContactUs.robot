@@ -5,7 +5,7 @@ Resource            ../pageObjects/ContactUs.robot
 
 *** Test Cases ***
 User Must Be Able to Login to URL
-    [Documentation]       Test to verify that the user can Registration successfully
+    [Documentation]       Test to verify that the user can ContactUs successfully
     [Setup]               Open Browser Chrome
 
     Verify Current Url Is Homepage Url
