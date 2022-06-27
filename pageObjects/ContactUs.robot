@@ -13,9 +13,10 @@ Verify Current Url Is Homepage Url
     [Documentation]             Verify current url is homepage url
     Location Should Be          ${HOMEPAGE_URL}
 
-Verify Homepage Title Appears
-    [Documentation]             Verify homepage title appears
-    Element Should Be Visible   ${title_homepage}
+#Verify Homepage Title Appears
+#    [Documentation]             Verify homepage title appears
+#    Element Should Be Visible   ${title_homepage}
+#    sleep                       5s
 
 Verify Homepage ContactUs Appears
     Click Element               ${contactus}
@@ -42,5 +43,5 @@ Fill in the Message
     sleep                           10s
 
 Attach File
-    Choose File                     ${file}                     D:/POM/TEST.jpg
+    Choose File                     ${file}                     D:/AutomationTest/TEST.jpg
     sleep                           10s
