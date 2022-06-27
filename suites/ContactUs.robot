@@ -15,6 +15,7 @@ User Must Be Able to Login to URL
     Select the dropdown list on the subject heading
     Fill in the registered email address
     Fill in the Order Reference
+    Fill in the Message
     Attach File
 
     [Teardown]            Close Browser
